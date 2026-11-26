@@ -1,0 +1,11 @@
+{
+  "device_name": "MuzikCalar",
+  "ap_password": "12345678",
+  "active_gif": "/default/plak.gif",
+  "default_volume": 15,
+  "wifi_always_on": true,
+  "max_volume": 20,
+  "defaults": [
+    {"name": "Plak", "file": "/default/plak.gif"}
+  ]
+}

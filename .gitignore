@@ -1,0 +1,9 @@
+*.bin
+fs.bin
+build/
+out/
+__pycache__/
+*.log
+*.mp3
+*.wav
+*.wma

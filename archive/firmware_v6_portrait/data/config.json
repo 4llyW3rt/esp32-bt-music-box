@@ -1,0 +1,11 @@
+{
+  "device_name": "MuzikCalar",
+  "ap_password": "12345678",
+  "active_gif": "/default/radyal.gif",
+  "default_volume": 15,
+  "defaults": [
+    {"name": "Radyal", "file": "/default/radyal.gif"},
+    {"name": "Dalga",  "file": "/default/dalga.gif"},
+    {"name": "Plak",   "file": "/default/plak.gif"}
+  ]
+}
